@@ -1,0 +1,9 @@
+{
+  "output": "both",
+  "moltbook_submolt": "general",
+  "include_in_continuity": true,
+  "track_history": true,
+  "history_file": "memory/karma-history.json",
+  "top_posts_limit": 10,
+  "share_publicly": true
+}
